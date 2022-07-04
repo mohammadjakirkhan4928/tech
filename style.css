@@ -1,0 +1,10 @@
+body{font-family: 'Arima', cursive;
+font-family: 'Gulzar', serif;
+font-family: 'Roboto', sans-serif;
+background-color: lightsalmon;
+}
+.top{
+    display: flex;
+    margin: 100px;
+
+}
